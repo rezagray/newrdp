@@ -72,7 +72,7 @@ password - @cyb3rking
 
 Feel free to contribute, share, or customize for your Windows projects! Happy coding! 🚀
 
-## SOCIAL MEDIAs :
+## SOCIAL MEDIA:
 [![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/CYB3R-KING)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/CYB3R_KING)
 [![CHANNEL](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/CYB3R_KING)
